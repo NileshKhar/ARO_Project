@@ -1,4 +1,4 @@
-Demand Forecasting and Inventory Optimization Project
+Demand Forecasting and Inventory Optimization Project: 
 This repository contains the implementation of five advanced demand forecasting models (ARIMA, XGBoost, Exponential Smoothing, Prophet, and Moving Average) developed during my project internship at ARO Scientific Ltd. The goal of this project was to optimize inventory management by accurately forecasting demand, achieving predictive accuracies ranging from 70% to 98% across different product categories.
 
 Key Features:
